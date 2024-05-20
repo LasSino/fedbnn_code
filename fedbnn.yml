@@ -1,0 +1,16 @@
+name: fed_bnn
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - pytorch >= 1.12.0
+  - torchvision >= 0.12.0
+  - torchtext
+  - python==3.9
+  - pip
+  - jedi
+  - scipy
+  - scikit-learn
+  - numpy
+  - jupyter
+  - pylint
